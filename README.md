@@ -52,7 +52,7 @@
 - 서로 상관성이 높은 여러 변수들의 선형조합으로 만든 새로운 변수들로 요약 및 축약하는 기법.
 - 데이터의 분산(variance)를 최대한 보존하면서 직교하는 새 기저(축)을 찾아 고차원 공간의 표봄들을 선형 연관성이 없는 저차원 공간으로 변환해 준다.
 
-![PCA2](https://github.com/Kyle1113/DataMining_Project/assets/168116920/8e17bedf-2fce-43d3-a934-456dac15ec49)
+![PCA3](https://github.com/Kyle1113/DataMining_Project/assets/168116920/7f8214f7-6b6a-4fb1-b5f3-2f655e7738e2)
 
 ##### Silhouette 계수
 - 각각의 데이터가 해당 데이터와 같은 군집 내의 데이터와는 얼마나 가깝게 군집화가 되었고, 다른 군집에 있는 데이터와는 얼마나 멀리 분포되어 있는지를 나타내는 지표
