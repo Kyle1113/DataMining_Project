@@ -47,11 +47,16 @@ With an aging population and increasing need for social engagement among senior 
 
 ## 4. Main Datasets
 
-1. **서울시 주민등록인구(월별_동별) 통계**
-2. **서울시 독거노인 현황 (연령별/동별) 통계**
-3. **서울시 장애인 현황 (연령별/동별) 통계**
-4. **서울시 경로당 정보**
-5. **서울시 국민기초생활 수급자 동별 현황**
+1. **서울시 주민등록인구 (연령별/동별) 통계**
+   (https://data.seoul.go.kr/dataList/10727/S/2/datasetView.do)
+3. **서울시 독거노인 현황 (연령별/동별) 통계**
+   (https://data.seoul.go.kr/dataList/10176/S/2/datasetView.do)
+5. **서울시 장애인 현황 (연령별/동별) 통계**
+   (https://data.seoul.go.kr/dataList/10580/S/2/datasetView.do)
+7. **서울시 경로당 정보**
+   (https://data.seoul.go.kr/dataList/OA-15052/S/1/datasetView.do)
+9. **서울시 국민기초생활 수급자 동별 현황**
+    (https://data.seoul.go.kr/dataList/OA-22227/F/1/datasetView.do)
 
 *Data Source: [서울 열린데이터광장](https://data.seoul.go.kr/)*
 
