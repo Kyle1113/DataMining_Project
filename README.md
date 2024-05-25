@@ -38,8 +38,8 @@
 
 #### K-means Clustering
 
-##### PCA
+###### PCA
 
-##### Silhouette 계수
+###### Silhouette 계수
 
 ### 시각화(EDA) - 경로당 존재 동별
