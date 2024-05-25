@@ -2,7 +2,7 @@
 
 Techniques, applications, and practices for analyzing the data from diverse sources to plan and optimize event hosting in neighborhoods with senior centers.
 
-## Project-Team 🚀
+## Project-Team 
 This is a team project aimed at analyzing demographic and social data to facilitate optimal event planning in neighborhoods with senior centers in Seoul.
 
 ### Team members and Roles
