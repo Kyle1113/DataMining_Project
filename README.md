@@ -45,14 +45,14 @@
 - 같은 집단 내 데이터들은 비슷한 특징을 가지고 있고, 다른 집단의 데이터와는 데이터적으로 상반된 특징을 가지고 있다는 것을 가정한다. 즉, 동일 집단의 군집화를 고려하는 것 뿐만 아니라, 타집단과의 관계도 고려.
 - 매우 좋은 알고리즘임에도 불구하고, 가장 큰 단점이 있다면, Cluster 개수를 미리 알아야한다는 것 (PCA 사용으로 해결)
 
-![k-means-clustering-algorithm-in-machine-learning](https://github.com/Kyle1113/DataMining_Project/assets/168116920/b9936117-ff34-4c5e-a483-a4e0c16ef542)
+![k-means-clustering-algorithm-in-machine-learning](https://github.com/Kyle1113/DataMining_Project/assets/168116920/c31d186a-30b8-491f-a483-990434df8219)
 
 ##### PCA
 - 데이터 집합 내에 존재하는 각 데이터의 차이를 가장 잘 나타내 주는 요소를, 데이터를 잘 표현 할 수 있는 특성을 찾아내는 방법
 - 서로 상관성이 높은 여러 변수들의 선형조합으로 만든 새로운 변수들로 요약 및 축약하는 기법.
 - 데이터의 분산(variance)를 최대한 보존하면서 직교하는 새 기저(축)을 찾아 고차원 공간의 표봄들을 선형 연관성이 없는 저차원 공간으로 변환해 준다.
 
-![PCA3](https://github.com/Kyle1113/DataMining_Project/assets/168116920/7f8214f7-6b6a-4fb1-b5f3-2f655e7738e2)
+![PCA](https://github.com/Kyle1113/DataMining_Project/assets/168116920/66a91619-0196-4efc-b0c5-a0e4d831d3bc)
 
 ##### Silhouette 계수
 - 각각의 데이터가 해당 데이터와 같은 군집 내의 데이터와는 얼마나 가깝게 군집화가 되었고, 다른 군집에 있는 데이터와는 얼마나 멀리 분포되어 있는지를 나타내는 지표
