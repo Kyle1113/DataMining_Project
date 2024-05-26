@@ -58,7 +58,7 @@
 - 각각의 데이터가 해당 데이터와 같은 군집 내의 데이터와는 얼마나 가깝게 군집화가 되었고, 다른 군집에 있는 데이터와는 얼마나 멀리 분포되어 있는지를 나타내는 지표
 - -1에서 1 사이의 값을 가지며 1에 가까울 수록 근처 군집과 멀리 떨어져 있음을, 0에 가까울수록 근처 군집과 가까움을 의미
 
-<img width="793" alt="Silhoutte" src="https://github.com/Kyle1113/DataMining_Project/assets/168116920/b6e1593b-8a17-4be8-81e8-8b3bead78491">
+<img width="748" alt="Silhoutte" src="https://github.com/Kyle1113/DataMining_Project/assets/168116920/1cb934b7-fdf0-448e-97e2-2dd54a888f30">
 
 ---
 
