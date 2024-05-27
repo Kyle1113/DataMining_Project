@@ -12,6 +12,7 @@
 
 ## Data PreProcessing
 ### 데이터 수집 및 분석
+#### - *Data Source: [서울 열린데이터광장](https://data.seoul.go.kr/)*
 1. **서울시 주민등록인구 (연령별/동별) 통계**  
    *https://data.seoul.go.kr/dataList/10727/S/2/datasetView.do*
 2. **서울시 독거노인 현황 (연령별/동별) 통계**  
@@ -23,7 +24,7 @@
 5. **서울시 국민기초생활 수급자 동별 현황**  
     *https://data.seoul.go.kr/dataList/OA-22227/F/1/datasetView.do*
 
-*Data Source: [서울 열린데이터광장](https://data.seoul.go.kr/)*
+
 
 ### 데이터 전처리
 1. 결측치 제거 및 필요하지 않는 Feature 제거
